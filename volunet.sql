@@ -1,0 +1,1 @@
+SELECT * FROM volunet_db.users;
